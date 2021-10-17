@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "ENGINE DIAGNOSTIC",
+        "price": 2000,
+        "time": 2,
+        "description": "kljfljfdhsojjhashjiuhgpoaaohfahafhauifhfafuhahflafhafhhfofhjsffoasfsaff",
+        "img": "https://i.ibb.co/MC7hgBH/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "WHILE ALIGNMENT",
+        "price": 3000,
+        "time": 4,
+        "description": "kljfljfdhsojjhashjiuhgpoaaohfahafhauifhfafuhahflafhafhhfofhjsffoasfsaff",
+        "img": "https://i.ibb.co/JyXvMr4/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "OIL CHANGEING",
+        "price": 2000,
+        "time": "20min",
+        "description": "kljfljfdhsojjhashjiuhgpoaaohfahafhauifhfafuhahflafhafhhfofhjsffoasfsaff",
+        "img": "https://i.ibb.co/CPR8dcj/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "BREAK REPARING",
+        "price": 2500,
+        "time": 2.30,
+        "description": "kljfljfdhsojjhashjiuhgpoaaohfahafhauifhfafuhahflafhafhhfofhjsffoasfsaff",
+        "img": "https://i.ibb.co/8cqtXWh/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "WASH AND GLASSING",
+        "price": 5000,
+        "time": 3,
+        "description": "kljfljfdhsojjhashjiuhgpoaaohfahafhauifhfafuhahflafhafhhfofhjsffoasfsaff",
+        "img": "https://i.ibb.co/K2MWtkr/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "COMPLETE ANALYSIS",
+        "price": 6000,
+        "time": "1day",
+        "description": "kljfljfdhsojjhashjiuhgpoaaohfahafhauifhfafuhahflafhafhhfofhjsffoasfsaff",
+        "img": "https://i.ibb.co/8x57v68/6.jpg"
+    }
+]
